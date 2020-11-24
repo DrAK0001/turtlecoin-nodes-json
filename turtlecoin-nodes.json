@@ -146,6 +146,13 @@
       "port": 11898,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "Public Node This IZ",
+      "url": "thisiz.eu",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
     }
   ]
 }
